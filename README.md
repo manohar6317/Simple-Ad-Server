@@ -76,4 +76,4 @@ Contributions are welcome\! Please submit pull requests for bug fixes, new featu
 
 ## License
 
-*(Add license information here)*
+This project is licensed under the [MIT License]
