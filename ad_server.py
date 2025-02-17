@@ -83,7 +83,7 @@ def get_time_in_india(hour, minute):
 
 # Schedule ads (using specific times in India)
 scheduled_time_ad1 = get_time_in_india(9, 0) # 9:00 AM IST
-scheduled_time_ad2 = get_time_in_india(20, 47) # 5:00 PM IST
+scheduled_time_ad2 = get_time_in_india(20, 30) # 20:30 PM IST
 
 schedule.every().day.at(scheduled_time_ad1).do(display_ad, "Ad Content 1 (18-35, NY)", (18, 35), "New York")
 schedule.every().day.at(scheduled_time_ad2).do(display_ad, "Ad Content 2 (Any Age, London)", "any", "London")
