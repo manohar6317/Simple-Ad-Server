@@ -11,9 +11,33 @@ This project implements a basic ad server in Python using SQLite for data persis
 *   **Data Persistence:** Store ad statistics in an SQLite database for persistence across sessions.
 *   **Data Analysis:** Includes functions to retrieve the most popular ad, the ad with the highest click-through rate, and total impressions for a given ad.
 
- ## Screenshots
+## Here are some Screenshots
 
-*(Add screenshots here showing the code, ad statistics output, and the database view)*
+### 1. Ad Schedule Info
+
+![Main Dashboard](images/scheduleinfo.png)
+
+### 2. Enter Details
+
+![Issuer Login](images/details.png)
+
+### 3. Ad Relavant
+
+![Certificate Issuance Form](images/clickad.png)
+
+### 4. SQL lite Database Schema
+
+![Certificate Issued Confirmation](images/addcertificate.png)
+
+### 5. Updated Database  
+
+![Certificate Verification Input](images/registration.png)
+
+### 5. Add not relavant  
+
+![Certificate Verification Input](images/registration.png)
+
+
 
 ## Getting Started
 
