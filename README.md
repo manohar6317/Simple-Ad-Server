@@ -35,7 +35,7 @@ This project implements a basic ad server in Python using SQLite for data persis
 
 ### 5. Add not relavant  
 
-![Certificate Verification Input](images/adnotrelavant.png)
+![Certificate Verification Input](images/adnotrelavent.png)
 
 
 
