@@ -25,17 +25,17 @@ This project implements a basic ad server in Python using SQLite for data persis
 
 ![Certificate Issuance Form](images/clickad.png)
 
-### 4. SQL lite Database Schema
+### 4. SQL lite Database Structure
 
-![Certificate Issued Confirmation](images/addcertificate.png)
+![Certificate Issued Confirmation](images/databasestructure.png)
 
 ### 5. Updated Database  
 
-![Certificate Verification Input](images/registration.png)
+![Certificate Verification Input](images/updateddatabase.png)
 
 ### 5. Add not relavant  
 
-![Certificate Verification Input](images/registration.png)
+![Certificate Verification Input](images/adnotrelavant.png)
 
 
 
