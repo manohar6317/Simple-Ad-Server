@@ -1,4 +1,4 @@
-# Simple-Ad-Server
+
 # Simple Ad Server
 
 This project implements a basic ad server in Python using SQLite for data persistence and the `schedule` library for ad scheduling. It includes features for ad targeting, reporting, and basic data analysis.
