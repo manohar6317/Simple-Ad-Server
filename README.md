@@ -11,6 +11,10 @@ This project implements a basic ad server in Python using SQLite for data persis
 *   **Data Persistence:** Store ad statistics in an SQLite database for persistence across sessions.
 *   **Data Analysis:** Includes functions to retrieve the most popular ad, the ad with the highest click-through rate, and total impressions for a given ad.
 
+ ## Screenshots
+
+*(Add screenshots here showing the code, ad statistics output, and the database view)*
+
 ## Getting Started
 
 ### Prerequisites
@@ -59,9 +63,7 @@ The `ad_stats` table in the SQLite database stores the ad statistics.  The table
 *   `impressions` (INTEGER): The number of times the ad has been displayed.
 *   `clicks` (INTEGER): The number of times the ad has been clicked.
 
-## Screenshots
 
-*(Add screenshots here showing the code, ad statistics output, and the database view)*
 
 ## Future Enhancements
 
